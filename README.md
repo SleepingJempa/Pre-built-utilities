@@ -1,2 +1,2 @@
-# Miniapps
+# Utility Codes
 > Python
