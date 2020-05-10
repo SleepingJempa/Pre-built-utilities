@@ -1,6 +1,3 @@
-# This is demo
-# Output: a HTML file containing videos link (of that playlist)
-
 from selenium import webdriver
 
 links = []
